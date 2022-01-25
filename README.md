@@ -1,5 +1,7 @@
 # Codefresh example of Ruby on Rails
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/83dc7b16-c6bf-429f-a772-4251809fb505.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/ruby-on-rails-sample-app?orgId=560723739106)  
+
 Original version is at 	https://bitbucket.org/railstutorial/sample_app_4th_ed.git
 
 It contains
